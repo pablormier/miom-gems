@@ -1,0 +1,7 @@
+https://github.com/SysBioChalmers/Human-GEM/raw/v1.9.0/model/Human-GEM.mat
+https://github.com/SysBioChalmers/yeast-GEM/raw/v8.5.0/model/yeast-GEM.mat
+https://github.com/SysBioChalmers/Mouse-GEM/raw/v1.2.0/model/Mouse-GEM.mat
+https://github.com/SysBioChalmers/Rat-GEM/raw/v1.2.0/model/Rat-GEM.mat
+https://github.com/SysBioChalmers/Zebrafish-GEM/raw/v1.1.0/model/Zebrafish-GEM.mat
+https://github.com/SysBioChalmers/Worm-GEM/raw/v1.2.0/model/Worm-GEM.mat
+https://github.com/SysBioChalmers/Fruitfly-GEM/raw/v1.1.0/model/Fruitfly-GEM.mat
