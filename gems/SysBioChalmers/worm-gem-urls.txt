@@ -1,0 +1,3 @@
+https://github.com/SysBioChalmers/Worm-GEM/raw/v1.2.0/model/Worm-GEM.mat; Worm-GEM/v1.2.0/default.miom
+https://github.com/SysBioChalmers/Worm-GEM/raw/v1.1.0/model/Worm-GEM.mat; Worm-GEM/v1.1.0/default.miom
+https://github.com/SysBioChalmers/Worm-GEM/raw/v1.0.0/model/Worm-GEM.mat; Worm-GEM/v1.0.0/default.miom

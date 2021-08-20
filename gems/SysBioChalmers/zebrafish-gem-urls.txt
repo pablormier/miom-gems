@@ -1,0 +1,2 @@
+https://github.com/SysBioChalmers/Zebrafish-GEM/raw/v1.1.0/model/Zebrafish-GEM.mat; Zebrafish-GEM/v1.1.0/default.miom
+https://github.com/SysBioChalmers/Zebrafish-GEM/raw/v1.0.0/model/Zebrafish-GEM.mat; Zebrafish-GEM/v1.0.0/default.miom

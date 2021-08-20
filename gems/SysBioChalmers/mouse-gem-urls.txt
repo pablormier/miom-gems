@@ -1,0 +1,3 @@
+https://github.com/SysBioChalmers/Mouse-GEM/raw/v1.2.0/model/Mouse-GEM.mat; Mouse-GEM/v1.2.0/default.miom
+https://github.com/SysBioChalmers/Mouse-GEM/raw/v1.1.0/model/Mouse-GEM.mat; Mouse-GEM/v1.1.0/default.miom
+https://github.com/SysBioChalmers/Mouse-GEM/raw/v1.0.0/model/Mouse-GEM.mat; Mouse-GEM/v1.0.0/default.miom
